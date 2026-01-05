@@ -150,7 +150,7 @@ def _extract_rows(page, context, limit: int = 50, fetch_abstract: bool = True) -
     return results
 
 
-def search_jplatpat(query: str, headless: bool = True, row_limit: int = 50, timeout_ms: int = 20000, fetch_abstract: bool = False) -> Dict[str, object]:
+def search_jplatpat(query: str, headless: bool = True, row_limit: int = 50, timeout_ms: int = 20000, fetch_abstract: bool = True) -> Dict[str, object]:
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=headless)
         context = browser.new_context(locale="ja-JP", user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
@@ -193,7 +193,7 @@ def main(argv: List[str]) -> int:
     parser.add_argument("--limit", type=int, default=10, help="Maximum number of rows to return")
     parser.add_argument("--timeout", type=int, default=20000, help="Timeout in milliseconds for page waits")
     parser.add_argument("--output", "-o", type=str, help="Output JSON file path. If not specified, auto-generates filename with timestamp.")
-    parser.add_argument("--abstract", action="store_true", help="Fetch abstract (要約) for each patent by opening detail page. This will slow down the scraping significantly.")
+    parser.add_argument("--no-abstract", action="store_false", dest="abstract", help="Disable fetching abstract (要約) for each patent. By default, abstract is fetched.")
     args = parser.parse_args(argv)
 
     try:
