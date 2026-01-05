@@ -1,0 +1,28 @@
+{
+  "query": "人工智能",
+  "message": "",
+  "count": 1,
+  "rows": [
+    {
+      "no": "1",
+      "document_number": "特表2025-519170",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-519170/11/ja",
+      "abstract": "",
+      "application_number": "特願2024-570254",
+      "application_date": "2023/03/09",
+      "publication_date": "2024/09/12",
+      "invention_title": "材質識別方法、インタラクティブタブレット及び記憶媒体",
+      "applicant": "▲広▼州▲視▼源▲電▼子科技股▲フン▼有限公司 他",
+      "status": "審査中 / 手続補正",
+      "fi_codes": [
+        "G06F3/041,560",
+        "G06F3/042,483"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    }
+  ]
+}

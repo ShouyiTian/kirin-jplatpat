@@ -1,0 +1,565 @@
+{
+  "query": "人工智能",
+  "message": "",
+  "count": 26,
+  "rows": [
+    {
+      "no": "1",
+      "document_number": "特表2025-519170",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-519170/11/ja",
+      "abstract": "",
+      "application_number": "特願2024-570254",
+      "application_date": "2023/03/09",
+      "publication_date": "2024/09/12",
+      "invention_title": "材質識別方法、インタラクティブタブレット及び記憶媒体",
+      "applicant": "▲広▼州▲視▼源▲電▼子科技股▲フン▼有限公司 他",
+      "status": "審査中 / 手続補正",
+      "fi_codes": [
+        "G06F3/041,560",
+        "G06F3/042,483"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "2",
+      "document_number": "特開2024-077600",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-077600/11/ja",
+      "abstract": "",
+      "application_number": "特願2023-183749",
+      "application_date": "2023/10/26",
+      "publication_date": "2024/06/07",
+      "invention_title": "集積回路の安全制御方法、装置、記憶媒体及び電子機器",
+      "applicant": "地平▲線▼（上海）人工智能技▲術▼有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "G06F11/07,193",
+        "G06F11/07,140@H",
+        "G06F15/78,515"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "3",
+      "document_number": "特開2024-066984",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-066984/11/ja",
+      "abstract": "",
+      "application_number": "特願2023-142755",
+      "application_date": "2023/09/04",
+      "publication_date": "2024/05/16",
+      "invention_title": "チップモニタリング方法及び装置",
+      "applicant": "地平▲線▼征程（杭州）人工智能科技有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "G06F11/07,157",
+        "G06F21/74"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "4",
+      "document_number": "特表2024-546722",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-546722/11/ja",
+      "abstract": "",
+      "application_number": "特願2024-534220",
+      "application_date": "2022/09/06",
+      "publication_date": "2024/03/14",
+      "invention_title": "ファンの回転速度制御方法、装置及びデバイス",
+      "applicant": "新華三人工智能科技有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "F04D27/00@P",
+        "G06F1/20@B",
+        "G06F1/20@D"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "5",
+      "document_number": "特開2024-024607",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-024607/11/ja",
+      "abstract": "",
+      "application_number": "特願2023-127517",
+      "application_date": "2023/08/04",
+      "publication_date": "2024/02/22",
+      "invention_title": "メモリーアクセスのための集積回路、処理方法、電子機器及び媒体",
+      "applicant": "地平▲線▼（上海）人工智能技▲術▼有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "G06F11/16,667",
+        "G06F12/00,560@A"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "6",
+      "document_number": "特表2025-526201",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-526201/11/ja",
+      "abstract": "",
+      "application_number": "特願2025-501807",
+      "application_date": "2023/05/31",
+      "publication_date": "2024/01/18",
+      "invention_title": "内視鏡補助検査システム、方法、装置及び記憶媒体",
+      "applicant": "天津御▲錦▼人工智能医▲療▼科技有限公司",
+      "status": "審査中 / 手続補正",
+      "fi_codes": [
+        "A61B1/045,623",
+        "A61B1/045,614",
+        "A61B1/045,618"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "7",
+      "document_number": "実登3245234",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-3245234/25/ja",
+      "abstract": "",
+      "application_number": "実願2023-004061",
+      "application_date": "2023/11/09",
+      "publication_date": "2024/01/11",
+      "invention_title": "溶接設備",
+      "applicant": "拓方狗人工智能服務有限公司",
+      "status": "-",
+      "fi_codes": [
+        "B23K31/00@K",
+        "B23K37/02@A"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "8",
+      "document_number": "特開2023-168234",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-168234/11/ja",
+      "abstract": "",
+      "application_number": "特願2023-051902",
+      "application_date": "2023/03/28",
+      "publication_date": "2023/11/24",
+      "invention_title": "記憶装置、方法、電子機器及び記憶媒体",
+      "applicant": "地平▲線▼（上海）人工智能技▲術▼有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "G06F12/00,571@A"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "9",
+      "document_number": "特表2024-545047",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-545047/11/ja",
+      "abstract": "",
+      "application_number": "特願2024-532692",
+      "application_date": "2022/11/23",
+      "publication_date": "2023/06/08",
+      "invention_title": "多モード医学データ融合の評価方法、装置、機器及び記憶媒体",
+      "applicant": "天津御▲錦▼人工智能医▲療▼科技有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "G06T7/00,612",
+        "G16H10/00",
+        "G06T7/00,350@C"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "10",
+      "document_number": "実登3241620",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-3241620/25/ja",
+      "abstract": "",
+      "application_number": "実願2023-000478",
+      "application_date": "2023/02/17",
+      "publication_date": "2023/04/17",
+      "invention_title": "高層壁掃除ロボット",
+      "applicant": "拓方狗人工智能服務有限公司",
+      "status": "-",
+      "fi_codes": [
+        "A47L11/38",
+        "B08B1/00",
+        "A47L1/02"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "11",
+      "document_number": "実登3241619",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-3241619/25/ja",
+      "abstract": "",
+      "application_number": "実願2023-000477",
+      "application_date": "2023/02/17",
+      "publication_date": "2023/04/17",
+      "invention_title": "屋根水槽洗浄機",
+      "applicant": "拓方狗人工智能服務有限公司",
+      "status": "-",
+      "fi_codes": [
+        "B08B9/087"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "12",
+      "document_number": "実登3241124",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-3241124/25/ja",
+      "abstract": "",
+      "application_number": "実願2022-004298",
+      "application_date": "2022/12/28",
+      "publication_date": "2023/03/06",
+      "invention_title": "斜面清掃カーテンウォールロボット",
+      "applicant": "拓方狗人工智能服務有限公司",
+      "status": "-",
+      "fi_codes": [
+        "A47L11/38"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "13",
+      "document_number": "特表2024-503675",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-503675/11/ja",
+      "abstract": "",
+      "application_number": "特願2023-542630",
+      "application_date": "2022/08/18",
+      "publication_date": "2023/02/23",
+      "invention_title": "故障診断回路、方法、装置およびコンピュータ可読記憶媒体",
+      "applicant": "地平▲線▼（上海）人工智能技▲術▼有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "G01R31/28@Q",
+        "G01R31/3183",
+        "G01R31/28@A"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "14",
+      "document_number": "特表2023-534582",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-534582/11/ja",
+      "abstract": "",
+      "application_number": "特願2022-564660",
+      "application_date": "2022/01/29",
+      "publication_date": "2022/12/29",
+      "invention_title": "複数カメラの外部パラメータのキャリブレーション装置及び方法、記憶媒体、電子装置",
+      "applicant": "地平▲線▼征程（杭州）人工智能科技有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "H04N23/60",
+        "H04N17/00,200"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "15",
+      "document_number": "特表2023-527631",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-527631/11/ja",
+      "abstract": "",
+      "application_number": "特願2022-557732",
+      "application_date": "2022/03/30",
+      "publication_date": "2022/11/03",
+      "invention_title": "テスト対象モジュールのテスト回路、方法及び装置",
+      "applicant": "地平▲線▼征程（杭州）人工智能科技有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "G01R31/3183",
+        "G01R31/28@Q",
+        "G06F11/263"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "16",
+      "document_number": "特表2023-523527",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-523527/11/ja",
+      "abstract": "",
+      "application_number": "特願2022-557731",
+      "application_date": "2022/02/18",
+      "publication_date": "2022/10/13",
+      "invention_title": "ターゲット動き情報検出方法、装置、機器及び媒体",
+      "applicant": "地平▲線▼征程（杭州）人工智能科技有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "G06T7/246",
+        "G06T7/70@Z",
+        "G06V10/40"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "17",
+      "document_number": "特表2023-523136",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-523136/11/ja",
+      "abstract": "",
+      "application_number": "特願2022-557733",
+      "application_date": "2022/02/11",
+      "publication_date": "2022/10/06",
+      "invention_title": "データパスの保護回路",
+      "applicant": "地平▲線▼征程（杭州）人工智能科技有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "G06F21/60",
+        "G06F11/10,604",
+        "G06F21/82"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "18",
+      "document_number": "特表2023-512386",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-512386/11/ja",
+      "abstract": "",
+      "application_number": "特願2022-522823",
+      "application_date": "2021/11/29",
+      "publication_date": "2022/07/07",
+      "invention_title": "ウイルス性肝炎を治療又は予防するための薬物組成物及びその応用",
+      "applicant": "中以海▲徳▼人工智能▲薬▼物研▲発▼股▲ふん▼有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "A61K31/415",
+        "A61P31/20",
+        "A61K38/05"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "19",
+      "document_number": "特表2022-551249",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-551249/11/ja",
+      "abstract": "",
+      "application_number": "特願2022-520212",
+      "application_date": "2020/11/24",
+      "publication_date": "2022/02/03",
+      "invention_title": "画像処理方法、画像処理用コマンドの生成方法および装置",
+      "applicant": "地平▲線▼（上海）人工智能技▲術▼有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "G06T3/40",
+        "G06T3/00,775"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "20",
+      "document_number": "特表2022-550170",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-550170/11/ja",
+      "abstract": "",
+      "application_number": "特願2022-519784",
+      "application_date": "2020/11/24",
+      "publication_date": "2022/01/13",
+      "invention_title": "コンピュータがテンソルデータの計算を実現する方法、装置、媒体及び機器",
+      "applicant": "地平▲線▼（上海）人工智能技▲術▼有限公司",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "G06F17/16@Z"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "21",
+      "document_number": "特表2022-537618",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-537618/11/ja",
+      "abstract": "",
+      "application_number": "特願2021-553843",
+      "application_date": "2021/01/25",
+      "publication_date": "2021/12/02",
+      "invention_title": "データ分類方法、分類器訓練方法及びシステム",
+      "applicant": "テンセント・テクノロジー・（シェンジェン）・カンパニー・リミテッド",
+      "status": "特許 有効 / 登録公報の発行",
+      "fi_codes": [
+        "G06N10/80",
+        "G06N20/00",
+        "G06F18/21"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "22",
+      "document_number": "特表2022-530132",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-530132/11/ja",
+      "abstract": "",
+      "application_number": "特願2021-563362",
+      "application_date": "2020/04/09",
+      "publication_date": "2020/10/29",
+      "invention_title": "画像認識に基づく結腸鏡検査品質評価ワークステーション",
+      "applicant": "天津御▲錦▼人工智能医▲療▼科技有限公司",
+      "status": "特許 有効 / 年金の支払い",
+      "fi_codes": [
+        "A61B1/045,610",
+        "A61B1/045,614",
+        "A61B1/045,618"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "23",
+      "document_number": "特開2015-016268",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2015-016268/11/ja",
+      "abstract": "",
+      "application_number": "特願2013-147147",
+      "application_date": "2013/07/15",
+      "publication_date": "2015/01/29",
+      "invention_title": "東洋医学における脈診の測定分析方法と測定分析システム及び簡易で携帯できる人工智能脈診測定分析装置",
+      "applicant": "崔 忠浩",
+      "status": "（出願の）却下・拒絶 / 出願のみなし取下げ",
+      "fi_codes": [
+        "A61B5/02,310@Z",
+        "A61B5/02,332@A",
+        "A61B5/02,340@A"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "24",
+      "document_number": "特開平08-143465",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-H08-143465/11/ja",
+      "abstract": "",
+      "application_number": "特願平06-312302",
+      "application_date": "1994/11/11",
+      "publication_date": "1996/06/04",
+      "invention_title": "難病のメガニズム及びその治療法",
+      "applicant": "王 立石",
+      "status": "-",
+      "fi_codes": [
+        "A61K33/06",
+        "A61K35/12",
+        "A61K35/78@C"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "25",
+      "document_number": "特開平04-260932",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-H04-260932/11/ja",
+      "abstract": "",
+      "application_number": "特願平03-047256",
+      "application_date": "1991/01/28",
+      "publication_date": "1992/09/16",
+      "invention_title": "推論機構",
+      "applicant": "ぺんてる株式会社",
+      "status": "-",
+      "fi_codes": [
+        "G06F9/44,330@K",
+        "G06F9/44,330@Q",
+        "G06F9/44,550@C"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    },
+    {
+      "no": "26",
+      "document_number": "特開平01-114441",
+      "document_url": "https://www.j-platpat.inpit.go.jp/c1801/PU/JP-H01-114441/11/ja",
+      "abstract": "",
+      "application_number": "特願昭63-240650",
+      "application_date": "1988/09/26",
+      "publication_date": "1989/05/08",
+      "invention_title": "印刷機の組付けを構成する方法および装置",
+      "applicant": "ロックウエル インターナショナル コーポレーション",
+      "status": "-",
+      "fi_codes": [
+        "B41F13/00@Z",
+        "B41F13/00",
+        "B41F27/12@C"
+      ],
+      "actions": [
+        "経過情報",
+        "OPD",
+        "URL"
+      ]
+    }
+  ]
+}

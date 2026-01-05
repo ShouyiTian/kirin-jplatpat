@@ -190,7 +190,7 @@ def main(argv: List[str]) -> int:
     parser = argparse.ArgumentParser(description="Search j-platpat and return result table as JSON")
     parser.add_argument("query", help="Search string to input into the simple search box")
     parser.add_argument("--headful", action="store_true", help="Run browser in headful mode for debugging")
-    parser.add_argument("--limit", type=int, default=50, help="Maximum number of rows to return")
+    parser.add_argument("--limit", type=int, default=10, help="Maximum number of rows to return")
     parser.add_argument("--timeout", type=int, default=20000, help="Timeout in milliseconds for page waits")
     parser.add_argument("--output", "-o", type=str, help="Output JSON file path. If not specified, auto-generates filename with timestamp.")
     parser.add_argument("--abstract", action="store_true", help="Fetch abstract (要約) for each patent by opening detail page. This will slow down the scraping significantly.")
