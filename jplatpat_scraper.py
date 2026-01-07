@@ -151,8 +151,9 @@ def _extract_rows(page, context, limit: int = 50, fetch_abstract: bool = True) -
 
 
 def search_jplatpat(query: str, headless: bool = True, row_limit: int = 50, timeout_ms: int = 20000, fetch_abstract: bool = True) -> Dict[str, object]:
+    launch_args = ["--no-sandbox", "--disable-dev-shm-usage"]
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=headless)
+        browser = p.chromium.launch(headless=headless, args=launch_args)
         context = browser.new_context(locale="ja-JP", user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
         page = context.new_page()
 

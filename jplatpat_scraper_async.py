@@ -217,8 +217,9 @@ async def _extract_rows(page, context, limit: int = 50, fetch_abstract: bool = T
 
 
 async def search_jplatpat_async(query: str, headless: bool = True, row_limit: int = 50, timeout_ms: int = 20000, fetch_abstract: bool = True) -> Dict[str, object]:
+    launch_args = ["--no-sandbox", "--disable-dev-shm-usage"]
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=headless)
+        browser = await p.chromium.launch(headless=headless, args=launch_args)
         context = await browser.new_context(locale="ja-JP", user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
         page = await context.new_page()
 
