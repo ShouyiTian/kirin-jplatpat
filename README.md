@@ -46,7 +46,6 @@ kirin-jplatpat/
 ├── jplatpat_scraper_async.py   # 异步爬虫（API 内部使用）
 ├── requirements.txt            # Python 依赖
 ├── Dockerfile                  # 生产镜像
-├── docker-compose.yml          # Docker 编排
 ├── .dockerignore               # Docker 排除
 ├── .env.example                # 环境变量示例
 ├── README.md                   # 本文件
@@ -162,22 +161,7 @@ python jplatpat_scraper.py --help
 
 ## Docker 部署
 
-### 使用 Docker Compose（推荐）
-
-```bash
-# 构建并启动服务
-docker-compose up -d
-
-# 查看日志
-docker-compose logs -f
-
-# 停止服务
-docker-compose down
-```
-
-服务将在 `http://localhost:8000` 启动
-
-### 使用 Docker 命令
+### 使用 Docker 命令（推荐）
 
 ```bash
 # 构建镜像
@@ -194,19 +178,6 @@ docker logs -f jplatpat-api
 
 # 停止容器
 docker stop jplatpat-api
-```
-
-### 开发模式
-
-使用 `Dockerfile.dev` 启用热重载：
-
-```bash
-docker build -f Dockerfile.dev -t jplatpat-api:dev .
-docker run -d \
-  --name jplatpat-api-dev \
-  -p 8000:8000 \
-  -v $(pwd):/app \
-  jplatpat-api:dev
 ```
 
 ### 健康检查
@@ -230,12 +201,7 @@ gunicorn api:app -w 4 -k uvicorn.workers.UvicornWorker -b 0.0.0.0:8000
 
 ### 资源配置
 
-Docker Compose 默认配置：
-- CPU 限制: 2 核心
-- 内存限制: 2GB
-- 保留资源: 1 核心 / 1GB
-
-根据实际需求调整 `docker-compose.yml` 中的资源限制
+根据实际需求为容器设置 CPU/内存等资源限制
 
 ## 注意事项
 

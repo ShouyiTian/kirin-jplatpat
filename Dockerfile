@@ -41,8 +41,8 @@ RUN playwright install chromium --with-deps
 # Copy application code
 COPY . .
 
-# Expose API port
-EXPOSE 8080
+# Expose API port (Cloud Run uses $PORT; default to 8000 locally)
+EXPOSE 8000
 
 # Run the API server
-CMD exec python -m uvicorn api:app --host 0.0.0.0 --port 8080
+CMD ["sh", "-c", "python -m uvicorn api:app --host 0.0.0.0 --port ${PORT:-8000}"]

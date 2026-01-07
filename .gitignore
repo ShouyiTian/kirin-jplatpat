@@ -38,6 +38,7 @@ wheels/
 # Results and logs
 jplatpat_result_*.json
 *.log
+results/
 
 # OS
 .DS_Store

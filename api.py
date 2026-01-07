@@ -14,7 +14,7 @@ app = FastAPI(
 
 class SearchRequest(BaseModel):
     query: str = Field(..., description="Search query string")
-    limit: int = Field(default=3, ge=1, le=100, description="Maximum number of results to return")
+    limit: int = Field(default=10, ge=1, le=100, description="Maximum number of results to return")
     timeout: int = Field(default=20000, ge=5000, le=60000, description="Timeout in milliseconds")
     fetch_abstract: bool = Field(default=True, description="Whether to fetch abstract (要約) for each patent")
     headless: bool = Field(default=True, description="Run browser in headless mode")
@@ -23,7 +23,7 @@ class SearchRequest(BaseModel):
         "json_schema_extra": {
             "example": {
                 "query": "人工知能",
-                "limit": 3,
+                "limit": 10,
                 "timeout": 20000,
                 "fetch_abstract": True,
                 "headless": True
@@ -65,7 +65,7 @@ async def search_patents(request: SearchRequest):
     Search J-PlatPat database for patents
     
     - **query**: Search query string (required)
-    - **limit**: Maximum number of results (1-100, default: 3)
+    - **limit**: Maximum number of results (1-100, default: 10)
     - **timeout**: Timeout in milliseconds (5000-60000, default: 20000)
     - **fetch_abstract**: Fetch abstract for each patent (default: True)
     - **headless**: Run browser in headless mode (default: True)
